@@ -1,0 +1,4 @@
+baseURL = "https://csharpe1blog.github.io/"
+languageCode = "en-us"
+title = "CSharpe1Blog"
+theme="contrast-hugo"

@@ -1,0 +1,4 @@
+[submodule "CSharpe1Blog/public"]
+	path = CSharpe1Blog/public
+	url = git@github.com:CSharpe1/CSharpe1.github.io.git
+	branch = main
